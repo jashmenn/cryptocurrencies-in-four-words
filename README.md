@@ -6,7 +6,7 @@
 
 > This list describes cryptocurrencies. Each gets four words. There are many. 
 >
-> Some are landmarks. Some are scams. Hopefully this helps you.
+> Some are landmarks. Some are scams. Hopefully this provides orientation.
 
 The full list:
 
@@ -123,6 +123,10 @@ The full list:
 ## Contributing
 
 Submit pull requests.
+
+## Prior Work
+
+Inspired by [Greg Wilson](https://medium.com/google-cloud/gcp-products-described-in-4-words-or-less-f3056550e595)
 
 ## Authors
 
