@@ -1,7 +1,7 @@
 # Cryptocurrencies described in four words or less [![Dolpins](https://cdn.rawgit.com/fullstackio/cq/master/packages/cq/doc/readme/dolphins-badge-ff00ff.svg)](https://www.newline.co) 
 
 <p align="center">
-  <img src="https://i.imgur.com/n1aD3VU.png" alt="Cryptocurrencies in four words" />
+  <img src="https://i.imgur.com/pp0y5ZA.png" alt="Cryptocurrencies in four words or less" />
 </p>
 
 > This list describes cryptocurrencies. Each gets four words. There are many. 
@@ -46,7 +46,7 @@ The full list:
 | 32   | TenX                  | PAY    | Cryptocurrency credit card                | 
 | 33   | Decred                | DCR    | Bitcoin with alternative governance       | 
 | 34   | Metal                 | MTL    | Payments with rewards program             | 
-| 35   | PIVX                  | PIVX   | Dash clone                                | 
+| 35   | PIVX                  | PIVX   | Inflationary Dash clone                   | 
 | 36   | MonaCoin              | MONA   | Japanese Dogecoin                         | 
 | 37   | Walton                | WTC    | IoT Blockchain                            | 
 | 38   | Golem                 | GNT    | Rent other people's computers             | 
@@ -64,8 +64,8 @@ The full list:
 | 50   | DigixDAO              | DGD    | Organisation manages tokenized gold       | 
 | 51   | Siacoin               | SC     | Rent disk space                           | 
 | 52   | Iconomi               | ICN    | Digital asset investment funds            | 
-| 53   | SmartCash             | SMART  | Zcash copy                                | 
-| 54   | BitcoinDark           | BTCD   | Zcash copy                                | 
+| 53   | SmartCash             | SMART  | Zcoin clone with rewards                  | 
+| 54   | BitcoinDark           | BTCD   | Zcoin clone                               | 
 | 55   | Byteball Bytes        | GBYTE  | Decentralized database and currency       | 
 | 56   | Binance Coin          | BNB    | Pay Binance exchange fees                 | 
 | 57   | Dogecoin              | DOGE   | Serious meme bitcoin clone                | 
@@ -93,7 +93,7 @@ The full list:
 | 79   | Bitdeal               | BDL    | Bitcoin clone                             | 
 | 80   | Nexus                 | NXS    | Bitcoin clone                             | 
 | 81   | Nxt                   | NXT    | Cryptocurrency and marketplace            | 
-| 82   | I/O Coin              | IOC    | Bitcoin clone                             | 
+| 82   | I/O Coin              | IOC    | Bitcoin plus data storage                 | 
 | 83   | VeChain               | VEN    | Supply chain item IDs                     | 
 | 84   | AdEx                  | ADX    | Advertising exchange                      | 
 | 85   | Aeternity             | AE     | Decentralized apps (prototype)            | 
@@ -106,12 +106,12 @@ The full list:
 | 92   | Aragon                | ANT    | Decentralized organizations               | 
 | 93   | iExec RLC             | RLC    | Rent computing power                      | 
 | 94   | TaaS                  | TAAS   | Investment fund                           | 
-| 95   | NAV Coin              | NAV    | Bitcoin clone                             | 
+| 95   | NAV Coin              | NAV    | Bitcoin with private transactions         | 
 | 96   | Dentacoin             | DCN    | Dentist reviews and insurance             | 
 | 97   | Modum                 | MOD    | Supply chain product IDs                  | 
 | 98   | Loopring              | LRC    | Decentralized exchange                    | 
 | 99   | NoLimitCoin           | NLC2   | Fantasy sports                            | 
-| 100  | FairCoin              | FAIR   | Bitcoin clone                             | 
+| 100  | FairCoin              | FAIR   | Bitcoin that rewards savers               | 
 
 
 ## Future Plans
