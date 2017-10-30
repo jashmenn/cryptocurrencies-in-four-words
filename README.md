@@ -1,4 +1,4 @@
-# Cryptocurrencies in four words [![Dolpins](https://cdn.rawgit.com/fullstackio/cq/master/packages/cq/doc/readme/dolphins-badge-ff00ff.svg)](https://www.newline.co) 
+# Cryptocurrencies described in four words or less [![Dolpins](https://cdn.rawgit.com/fullstackio/cq/master/packages/cq/doc/readme/dolphins-badge-ff00ff.svg)](https://www.newline.co) 
 
 <p align="center">
   <img src="https://i.imgur.com/n1aD3VU.png" alt="Cryptocurrencies in four words" />
@@ -130,7 +130,7 @@ Inspired by [Greg Wilson](https://medium.com/google-cloud/gcp-products-described
 
 ## Authors
 
-Originally by [Nate Murray](https://twitter.com/eigenjoy).
+[Nate Murray](https://twitter.com/eigenjoy) and contributors.
 
 <a href="https://newline.co">
 <img align="left" src="https://i.imgur.com/g9o3IfU.png" alt="newline: learn to program Solidity smart contracts" width="186" height="50" />
