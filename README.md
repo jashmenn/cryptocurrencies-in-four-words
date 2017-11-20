@@ -126,7 +126,9 @@ The full list:
 
 ## Contributing
 
-Submit pull requests.
+Submit pull requests. You get four words.
+
+Describe what each coin _is_. Don't use filler words.
 
 ## Prior Work
 
