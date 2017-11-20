@@ -8,6 +8,10 @@
 >
 > Some are landmarks. Some are scams. Hopefully this provides orientation.
 
+-----------
+
+> [Google Doc URL](https://docs.google.com/spreadsheets/d/151E3d26SIRNhXQewq-55dcvsJ8CEz70pzjCDg-B_350/edit#gid=1082450401)
+
 The full list:
 
 | Rank | Name                  | Symbol | Description                               | 
