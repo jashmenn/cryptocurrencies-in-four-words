@@ -1,7 +1,7 @@
 # Cryptocurrencies described in four words or less [![Dolpins](https://cdn.rawgit.com/fullstackio/cq/master/packages/cq/doc/readme/dolphins-badge-ff00ff.svg)](https://www.newline.co) 
 
 <p align="center">
-  <img src="https://i.imgur.com/pp0y5ZA.png" alt="Cryptocurrencies in four words or less" />
+  <img src="https://i.imgur.com/S2JPGAf.png" alt="Cryptocurrencies in four words or less" />
 </p>
 
 > This list describes cryptocurrencies. Each gets four words. There are many. 
