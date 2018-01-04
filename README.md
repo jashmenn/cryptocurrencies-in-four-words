@@ -19,22 +19,22 @@ The full list:
 | 1    | Bitcoin               | BTC    | Digital gold                              | 
 | 2    | Ethereum              | ETH    | Programmable contracts and money          | 
 | 3    | Ripple                | XRP    | Enterprise payment settlement network     | 
-| 4    | Bitcoin Cash          | BCH    | Bitcoin clone                             | 
-| 5    | Litecoin              | LTC    | Faster Bitcoin                            | 
-| 6    | Dash                  | DASH   | Privacy-focused Bitcoin clone             | 
+| 4    | Bitcoin Cash          | BCH    | Bitcoin fork                              | 
+| 5    | Litecoin              | LTC    | Faster Higher Supply Bitcoin              | 
+| 6    | Dash                  | DASH   | Privacy-focused Bitcoin Fork	            | 
 | 7    | NEM                   | XEM    | Batteries-included digital assets         | 
 | 8    | BitConnect            | BCC    | Madoff-like investment fund               | 
 | 9    | NEO                   | NEO    | Chinese-market Ethereum                   | 
 | 10   | Monero                | XMR    | Private digital cash                      | 
 | 11   | IOTA                  | MIOTA  | Internet-of-things payments               | 
-| 12   | Ethereum Classic      | ETC    | Ethereum clone                            | 
+| 12   | Ethereum Classic      | ETC    | Ethereum fork                             | 
 | 13   | Qtum                  | QTUM   | Ethereum contracts on Bitcoin             | 
 | 14   | OmiseGO               | OMG    | "Banking, remittance, and exchange"       | 
 | 15   | Cardano               | ADA    | Layered currency and contracts            | 
 | 16   | Zcash                 | ZEC    | Private digital cash                      | 
 | 17   | Stellar Lumens        | XLM    | Digital IOUs                              | 
 | 18   | Lisk                  | LSK    | Decentralized applications in JavaScript  | 
-| 19   | Tether                | USDT   | Price = 1 USD                             | 
+| 19   | Tether                | USDT   | Tethered to the USD                       | 
 | 20   | Stratis               | STRAT  | Decentralized applications in C#          | 
 | 21   | Waves                 | WAVES  | Decentralized exchange and crowdfunding   | 
 | 22   | Hshare                | HSR    | Cryptocurrency                            | 
@@ -42,7 +42,7 @@ The full list:
 | 24   | Ark                   | ARK    | Blockchain switchboard                    | 
 | 25   | Steem                 | STEEM  | Reddit with money voting                  | 
 | 26   | EOS                   | EOS    | Decentralized applications on WebAssembly | 
-| 27   | Vertcoin              | VTC    | Bitcoin clone                             | 
+| 27   | Vertcoin              | VTC    | Bitcoin fork                              | 
 | 28   | Ardor                 | ARDR   | Blockchain for spawning blockchains       | 
 | 29   | TRON                  | TRX    | In-app-purchases                          | 
 | 30   | Augur                 | REP    | Decentralized prediction market           | 
@@ -50,7 +50,7 @@ The full list:
 | 32   | TenX                  | PAY    | Cryptocurrency credit card                | 
 | 33   | Decred                | DCR    | Bitcoin with alternative governance       | 
 | 34   | Metal                 | MTL    | Payments with rewards program             | 
-| 35   | PIVX                  | PIVX   | Inflationary Dash clone                   | 
+| 35   | PIVX                  | PIVX   | Private Instant Verified Transactions     | 
 | 36   | MonaCoin              | MONA   | Japanese Dogecoin                         | 
 | 37   | Walton                | WTC    | IoT Blockchain                            | 
 | 38   | Golem                 | GNT    | Rent other people's computers             | 
@@ -68,11 +68,11 @@ The full list:
 | 50   | DigixDAO              | DGD    | Organisation manages tokenized gold       | 
 | 51   | Siacoin               | SC     | Rent disk space                           | 
 | 52   | Iconomi               | ICN    | Digital asset investment funds            | 
-| 53   | SmartCash             | SMART  | Zcoin clone with rewards                  | 
-| 54   | BitcoinDark           | BTCD   | Zcoin clone                               | 
+| 53   | SmartCash             | SMART  | Zcoin fork with rewards                   | 
+| 54   | BitcoinDark           | BTCD   | Zcoin fork                                | 
 | 55   | Byteball Bytes        | GBYTE  | Decentralized database and currency       | 
 | 56   | Binance Coin          | BNB    | Pay Binance exchange fees                 | 
-| 57   | Dogecoin              | DOGE   | Serious meme bitcoin clone                | 
+| 57   | Dogecoin              | DOGE   | Serious meme bitcoin fork                 | 
 | 58   | Veritaseum            | VERI   | Vaporware                                 | 
 | 59   | Civic                 | CVC    | Identity and Authentication App           | 
 | 60   | Lykke                 | LKK    | Digital asset exchange                    | 
@@ -86,7 +86,7 @@ The full list:
 | 68   | Bytom                 | BTM    | Physical assets as tokens                 | 
 | 69   | Bancor                | BNT    | Token Index Funds                         | 
 | 70   | Gnosis                | GNO    | Decentralized prediction market           | 
-| 71   | Verge                 | XVG    | Privacy Dogecoin                          | 
+| 71   | Verge                 | XVG    | Privacy via TOR Dogecoin                  | 
 | 72   | FunFair               | FUN    | Decentralized casino                      | 
 | 73   | ChainLink             | LINK   | External data for contracts               | 
 | 74   | Pura                  | PURA   | Cryptocurrency                            | 
@@ -94,8 +94,8 @@ The full list:
 | 76   | GXShares              | GXS    | Decentralized Chinese Equifax             | 
 | 77   | Bitquence             | BQX    | Mint for cryptocurrency investments       | 
 | 78   | Neblio                | NEBL   | Decentralized Application Platform        | 
-| 79   | Bitdeal               | BDL    | Bitcoin clone                             | 
-| 80   | Nexus                 | NXS    | Bitcoin clone                             | 
+| 79   | Bitdeal               | BDL    | Bitcoin fork                              | 
+| 80   | Nexus                 | NXS    | Bitcoin fork                              | 
 | 81   | Nxt                   | NXT    | Cryptocurrency and marketplace            | 
 | 82   | I/O Coin              | IOC    | Bitcoin plus data storage                 | 
 | 83   | VeChain               | VEN    | Supply chain item IDs                     | 
@@ -104,9 +104,9 @@ The full list:
 | 86   | Particl               | PART   | Privacy marketplace and chat              | 
 | 87   | Edgeless              | EDG    | Decentralized casino                      | 
 | 88   | ZCoin                 | XZC    | Private digital cash                      | 
-| 89   | Ubiq                  | UBQ    | Ethereum clone                            | 
+| 89   | Ubiq                  | UBQ    | Ethereum fork                             | 
 | 90   | Storj                 | STORJ  | Rent disk space                           | 
-| 91   | ZenCash               | ZEN    | Privacy-focused Bitcoin clone             | 
+| 91   | ZenCash               | ZEN    | Privacy-focused Bitcoin fork              | 
 | 92   | Aragon                | ANT    | Decentralized organizations               | 
 | 93   | iExec RLC             | RLC    | Rent computing power                      | 
 | 94   | TaaS                  | TAAS   | Investment fund                           | 
